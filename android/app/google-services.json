@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740469736169",
+    "firebase_url": "https://lojaflutter-47f83.firebaseio.com",
+    "project_id": "lojaflutter-47f83",
+    "storage_bucket": "lojaflutter-47f83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740469736169:android:ba8acef743308ffb882678",
+        "android_client_info": {
+          "package_name": "oliveira.com.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740469736169-u0adl4tbtsgjps5rilefs8bpecrv0705.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmjqtVQ_FeUWkhP1aPAsafwElVdcJ7LYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740469736169-u0adl4tbtsgjps5rilefs8bpecrv0705.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
